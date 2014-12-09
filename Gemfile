@@ -7,6 +7,8 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'capybara'
   gem 'faker'
+  gem 'launchy'
+  gem 'shoulda-matchers'
 
 end
 
